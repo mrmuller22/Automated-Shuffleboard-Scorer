@@ -17,5 +17,7 @@ The periphals utlized were:
   * LED Lights
 
 **Programming Language:** Python
+
 **Libraries/Frameworks:** OpenCV
+
 **Environment:** Desktop

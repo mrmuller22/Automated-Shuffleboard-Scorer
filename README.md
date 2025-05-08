@@ -23,3 +23,8 @@ The periphals utlized were:
 **Libraries/Frameworks:** OpenCV
 
 **Environment:** Desktop
+
+Pictures of Project Design:
+![1AB3353C-61B0-47C7-B430-53B168A5963A](https://github.com/user-attachments/assets/fbf33e42-b8b0-4f88-aa28-f4299aed26d7)
+
+![C363B0A7-BA0F-40E2-B935-E4B4C996F9B4](https://github.com/user-attachments/assets/c6e97d38-6b65-4f0d-a11d-92cbfc4d5a6f)

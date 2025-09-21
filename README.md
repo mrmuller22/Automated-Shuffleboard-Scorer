@@ -11,7 +11,8 @@ Unlike Air Hockey, shuffleboard leaves it to the players to calculate score. The
 **Features:**
 
 The features this project utlized was a rasberry pi to run the program on. I utlized embedded python to program all the I/O ports and any periphals utlized. What makes this program unique is the ability to capture a picture and calculate the score of the round from that picture.  
-The periphals utlized were:
+
+The peripherals utlized were:
   * USB Camera
   * Laser
   * LDR Sensor
